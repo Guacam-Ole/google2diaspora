@@ -43,7 +43,7 @@ Eine gute Idee sind übrigens die Hashtags #Neuhier und #GooglePlusRefugee. Die 
 Schreib fleißig, finde Deine Google+ - Kontakte wieder und mache Diaspora* zu einem lebendigen Ort. Wir freuen uns auf Dich
 
 ## Noch Fragen, Kienzle?
-Stell sie einfach direkt in Diaspora*. Wenn Du den Hashtag "#Frage" benutzt, wird Dir meist schnell jemand auskennt.
+Stell sie einfach direkt in Diaspora*. Wenn Du den Hashtag "#Frage" benutzt, wird Dir meist schnell jemand helfen, der sich auskennt.
 
 
 
