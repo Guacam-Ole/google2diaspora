@@ -1,3 +1,5 @@
+
+
 # Google+ macht dicht. Was nun?
 Erst mal: Keine Panik. Es ist noch eine Menge Zeit um sich ein neues zu Hause zu suchen. Dieses Dokument soll Dich dabei unterstützen zu Diaspora* zu wechseln.
 
@@ -46,5 +48,8 @@ Stell sie einfach direkt in Diaspora*. Wenn Du den Hashtag "#Frage" benutzt, wir
 
 
 
-Das Bild stammt von [Herr(n) Ohlsen](https://www.flickr.com/photos/herrolsen/4663935727) (CC-BY-NC)
+
+
+---
+Das Hintergrundbild stammt von [Herr(n) Ohlsen](https://www.flickr.com/photos/herrolsen/4663935727) (CC-BY-NC)
 
