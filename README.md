@@ -44,3 +44,7 @@ Schreib fleißig, finde Deine Google+ - Kontakte wieder und mache Diaspora* zu e
 Stell sie einfach direkt in Diaspora*. Wenn Du den Hashtag "#Frage" benutzt, wird Dir meist schnell jemand auskennt.
 
 
+
+
+Das Bild stammt von [Herr(n) Ohlsen](https://www.flickr.com/photos/herrolsen/4663935727) (CC-BY-NC)
+
