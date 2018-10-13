@@ -1,5 +1,5 @@
 
-
+![](img/thumb/logo.png)
 # Google+ macht dicht. Was nun?
 Erst mal: Keine Panik. Es ist noch eine Menge Zeit um sich ein neues zu Hause zu suchen. Dieses Dokument soll Dich dabei unterstützen zu Diaspora* zu wechseln.
 
