@@ -7,7 +7,7 @@ Erst mal: Keine Panik. Es ist noch eine Menge Zeit um sich ein neues zu Hause zu
 Diaspora* fühlt sich an vielen Stellen so ähnlich an wie Google+. Einiges wirst Du vermutlich vermissen, aber im Wesentlichen kann man schnell als Umsteiger anfangen. Und vor allem: Es sind schon einige Plusser da! \o/
 
 ## Alles klar. Wie fang ich da an?
-Diaspora* arbeitet mit sogenannten Pods. Andere erklären das ausführlicher, jetzt ist erst einmal wichtig, dass Du DIr einen beliebigen Pod aussuchst. [PlusPora](http://www.Pluspora.com) wäre eine gute Anlaufstelle für Google+ - Wechsler. Klicke dort einfach auf "Konto erstellen und denke Dir einen Benutzernamen aus. Dann wirst Du durch folgende kleine Willkommensseite begrüßt:
+Diaspora* arbeitet mit sogenannten [Pods](https://diasporafoundation.org/getting_started/sign_up). Andere erklären das ausführlicher, jetzt ist erst einmal wichtig, dass Du DIr einen beliebigen Pod aussuchst. [PlusPora](http://www.Pluspora.com) wäre eine gute Anlaufstelle für Google+ - Wechsler. Klicke dort einfach auf "Konto erstellen und denke Dir einen Benutzernamen aus. Dann wirst Du durch folgende kleine Willkommensseite begrüßt:
 
 [![Willkommen](img/thumb/welcome.png)](img/welcome.png)
 
